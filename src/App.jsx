@@ -616,91 +616,91 @@ function App() {
     },
     "MARIATKL": {
       to: "Maria",
-      isi: `Sebelumnya Minta Maaf nekk ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Terimakasih mar sudah menjadi teman yang baik.Terimakasih kae wis ngewaki daftar OSN,kae nyat aku ra niat melu jane tapi yowis lah wkwkwk.Maksih lo wis ngewaki ning berbagai hal lainnya.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kedepannya bisa mengapai mimpimu(doa anak yatim luwih manjur lo)`
     },
     "INTAN2": {
       to: "Intan",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘(Pokoke nek bavut etuk kertase ojo mbok buka)
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘(Pokoke nek bavut etuk kertase ojo mbok buka)
       Terimakasih cebolnya osis sudah menjadi sekbid 2 yang baik.Makasih lo sudah mengabdi nang RO,dadi enek koncone aku.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Tak doake isoh mencapai mimpi-mimpimu(doa anak yatim luwih manjur lo)`
     },
     "ALFIANDA": {
       to: "Alfani",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Makasih sih Alfani wis dadi Solo Sekbid 3.Pokoke nek wis baris barisan nek enek kowe wis tenang lah.Pokoke mantep lah.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Tak doake isoh ketompo kampus impianmu/nek meh kerjo yo semoga dadi CEO(doa anak yatim luwih manjur lo)`
     },
     "AULGANDES": {
       to: "Gandes",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘(Pokoke nek bacut wis etuk rasah dibuka)
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘(Pokoke nek bacut wis etuk rasah dibuka)
       Makasih ndes sudah menjadi rekan sekbid 4.Walaupun aku kadang ra cetho sorry ya.Pokoke maturnuwun banget lah wis gelem membimbing diri ini kejalan yang benar.
       Tak doake isoh meraih cita-citamu(doa anak yatim luwih manjur lo)`
     },
     "PAKDEZAL": {
       to: "Rizal",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Pakde ku,Akunku sisan immo zal.Mantap pokoke sekbid 5 mengendong sponsor.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Tak doake isoh ketompo kampus impianmu/nek meh kerjo yo semoga dadi CEO(doa anak yatim luwih manjur lo)`
     },
     "MAOURAAA": {
       to: "Maora",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Makasih tenan mour wis dadi sekbid 5 sing mengendong sponsor.Tanpa kowe mor acara osis ra mlaku mor.Mantap pokoke sekbid 5 mengendong sponsor.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "DAPANTEK": {
       to: "Dapa",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Selamat malam bosqu.Mantap pokoke,josjis.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "MALAPMR": {
       to: "Mala",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Terimakasih sudah jadi wirausahawane osis.Makasih banget pokoke mal.Memiliki sifat simpati dan empati sing mantep pokoke.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "MASOVAN": {
       to: "Ovan",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Mantap pan sudah jadi sekbid 7.Tapi bener ogh pan kowe ki anu wae nek ra mudeng ngunu takok pan.nek lagi ra ngopo ngopo ngunu pas acara mending nang buri wae,nimbrung ro liane.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "MASOTOT": {
       to: "Thariq",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Sobat Fitness ku.Mantap riq kowe nang osis sangat membantu ogh.Karo wis isoh menghadapi teman sekbid yang yang ytta aja.Ojo sering sering nang jogja wae naraku.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "AULTKJ": {
       to: "Aulia",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Makasih ul sudah menjadi sekbid 8.Makasih lo sudah membuat last wishe pak arip.Gawe eskul theater.Bendino kae pak arip crito kuwi trus.Ojo lali eskule dirawat.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "RAISAHGEO": {
       to: "Raisah",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Atm Berjalane osis tenan iki.Makasih lo sudah membuat last wish e pak arip.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "JAKSEL": {
       to: "Awfa",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Anak Jaksel abis.Kalau wa jangan centang 1 mulu lah mat.Pokoknya mantap dah gantiin adam jadi sekbid 9.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "CHESTA7": {
       to: "Chesta",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘(Pokoke nek bacut wis etuk rasah dibuka)
       Ojo plin plan lo ches.Karo piye ya,yo ngunu lah wkwkkw.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "MARGARET": {
       to: "Alle",
-      isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
+      isi: `Sebelumnya Minta Maaf nek ndek mau tulisane ora niat 😘😘😘
       Boloku tenan iki.Dikon langsung satset mangkat.Man.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
