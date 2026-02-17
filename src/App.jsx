@@ -695,7 +695,7 @@ function App() {
     "CHESTA7": {
       to: "Chesta",
       isi: `Sebelumnya Minta Maaf ndek mau tulisane ora niat 😘😘😘
-      Ojo plin plan lo ches.Karo piye ya cetok sitik lah wkwkkw.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
+      Ojo plin plan lo ches.Karo piye ya,yo ngunu lah wkwkkw.Jika selama ini enek kesalahan mohon dimaafkan🙏🙏🙏.
       Semoga kamu bisa meraih semua impianmu dan cita citamu(doa anak yatim luwih manjur lo)`
     },
     "MARGARET": {
